@@ -1,0 +1,16 @@
+body{
+margin: 0;
+text-align: center;
+}
+
+.google{        
+    height: 150px;
+}
+.title{
+    padding-top: 100px;
+}
+.p{
+    color: rgb(37, 37, 186);
+    text-transform: uppercase;
+    font-size: x-large;
+}

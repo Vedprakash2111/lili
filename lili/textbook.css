@@ -1,0 +1,25 @@
+.body{
+    padding-top: 8%;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+.listofboook{
+    margin: 20px;
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+  }
+  
+  .pro1{
+    margin: 10px;
+    text-align: center;
+    border: solid rgb(58, 52, 52);
+  }
+  .pro1 img{
+    height: 350px;
+    padding-top: 20px;
+  }

@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    padding-top: 10%;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-family: cursive;
+    
+    
+}
+.tree h2{
+    text-align: center;
+    font-size: xx-large;
+}
+iframe{
+    padding: 20px;
+}
+.sem{
+    list-style-type:none ;
+    text-align: start;
+}
+
+.tree li{
+    text-transform: uppercase;
+    list-style-type:none ;
+    text-align: center;
+    font-size: larger;
+} 

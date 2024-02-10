@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+a{
+    color: black;
+}
+.title{
+    text-align: center;
+    padding-top: 127px;
+    letter-spacing: 0.2rem;
+    color: grey;
+    display: block;
+    font-family: sans-serif;
+    line-height: 2.2;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+}
+.syllabus{
+    padding-left: 15%;
+    letter-spacing: 0.2rem;
+    color: grey;
+    display: block;
+    font-family: sans-serif;
+    line-height: 2.2;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+}

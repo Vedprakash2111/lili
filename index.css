@@ -1,0 +1,46 @@
+
+.slider-container {
+    position: relative;
+    width:auto;
+    overflow: hidden;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .image-container {
+    display: flex;
+    transition: transform 0.4s ease-in-out;
+    height: 400px;
+  }
+  
+  .btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-size: 20px;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+  
+  .btn.prev {
+    left: 10px;
+  }
+  
+  .btn.next {
+    right: 10px;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+
+  .welcome{
+    text-transform: uppercase;
+    font-family: revert;
+    font-size: -webkit-xxx-large;
+    text-align: center;
+    margin: 0px;
+    padding-top: 115px;
+  }
